@@ -1,0 +1,10 @@
+*.zip
+pytorch-cifar100/
+*.pth
+model/__pycache__/
+loss/__pycache__/
+Mydataset/__pycache__/
+*.pyc
+ada_ResNet50_for_classfication
+*.pth
+*.tar
